@@ -32,7 +32,7 @@ There were no challenges in regards to building the app, there were some problem
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mia Ware]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
